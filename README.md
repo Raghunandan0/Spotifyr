@@ -34,15 +34,15 @@ It is designed for **learning purposes**, to showcase front-end development skil
 
 ## 📸 Screenshots
 
-![Spotifyr Screenshot](./spotify_img)  
+<img src="https://github.com/user-attachments/assets/da35a897-90e8-4d7f-a469-a33f32350914" alt="Spotifyr Screenshot" width="
 
-*(Replace with actual screenshots of your project)*
+
 
 ---
 
 ## 🔗 Live Demo
 
-Check out the live version: [Spotifyr Demo](https://isha-gupta01.github.io/spotify/)
+Check out the live version: https://spotifyr-zeta.vercel.app/
 
 ---
 
