@@ -34,7 +34,7 @@ It is designed for **learning purposes**, to showcase front-end development skil
 
 ## 📸 Screenshots
 
-<img src="https://github.com/user-attachments/assets/da35a897-90e8-4d7f-a469-a33f32350914" alt="Spotifyr Screenshot" width="
+<img src="https://github.com/user-attachments/assets/da35a897-90e8-4d7f-a469-a33f32350914" alt="Spotifyr Screenshot" width="900"/>
 
 
 
